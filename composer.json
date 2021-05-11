@@ -12,7 +12,7 @@
 		"wp-cli/php-cli-tools": "0.10.5",
 		"mustache/mustache": "~2.4",
 		"ramsey/array_column": "~1.1",
-		"rmccue/requests": "~1.6",
+		"rmccue/requests": "~1.8",
 		"symfony/finder": "~2.3|~3.0|~4.0",
 		"nb/oxymel": "0.1.0"
 	},
